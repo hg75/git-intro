@@ -1,0 +1,3 @@
+Year: Senior
+Major: Public Policy
+Favorite Programming Languages: HTML, CSS
