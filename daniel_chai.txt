@@ -1,3 +1,0 @@
-Year: Freshman
-Major: Computer Science
-Favorite Programming Language: Java

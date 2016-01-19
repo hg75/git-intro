@@ -1,2 +1,0 @@
-Sophomore, Computer Science
-Java, Swift, Python
